@@ -1,0 +1,10 @@
+/*Bordes de modal redondos*/
+.v-dialog {
+  border-radius: 24px !important;
+}
+
+/*Estilo en botónes que se encuentran dentro de un v-text-field
+  (Es para que se muestre un poco más arriba de lo normal. Para que se vea centrado)*/
+.v-text-field-append-button {
+  transform: translate(0 , -4px);
+}
